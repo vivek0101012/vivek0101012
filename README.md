@@ -51,15 +51,15 @@ B.Tech – Electronics & Communication Engineering @ MMMUT (2023–2027)
 ## 🛠 Tech Stack
 
 <!-- Line 1: Languages + Backend -->
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,nodejs,express,react,tailwind" />
 </br>
 
 <!-- Line 2: Databases + Tools -->
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,postman,npm,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,git,github,postman,npm,vscode" />
 </br>
 <!-- Line 3: DevOps + Frontend -->
 
-<img src="https://skillicons.dev/icons?i=kafka,docker,kubernetes,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=kafka,docker,kubernetes,aws" />
 
 ## GitHub Stats
 
