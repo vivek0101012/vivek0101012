@@ -76,9 +76,6 @@ B.Tech – Electronics & Communication Engineering @ MMMUT (2023–2027)
   <img src="https://github-readme-streak-stats.herokuapp.com?user=vivek0101012&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/vivek0101012.svg" />
-</p>
 
 <!--
 **vivek0101012/vivek0101012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
