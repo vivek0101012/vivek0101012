@@ -70,11 +70,6 @@ B.Tech – Electronics & Communication Engineering @ MMMUT (2023–2027)
 
 ---
 
-## GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vivek0101012&theme=tokyonight&hide_border=true" />
-</p>
 
 
 <!--
