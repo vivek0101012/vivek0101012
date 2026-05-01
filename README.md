@@ -4,7 +4,7 @@
 
 Building scalable backend systems, exploring microservices, and solving algorithmic problems.
 
-🎓 B.Tech (ECE), MMMUT Gorakhpur (2023–2027)
+ B.Tech (ECE), MMMUT Gorakhpur (2023–2027)
 
 ---
 
@@ -27,7 +27,7 @@ Building scalable backend systems, exploring microservices, and solving algorith
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 **Flight Booking System (Microservices)**  
 Node.js · Express · MySQL · RabbitMQ  
@@ -44,7 +44,7 @@ Node.js · React · MongoDB
 
 ---
 
-### 📚 Currently Learning
+###  Currently Learning
 
 - Node.js & Express.js (Backend)
 - DBMS & System Design basics
@@ -52,7 +52,7 @@ Node.js · React · MongoDB
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 **Languages:** JavaScript · TypeScript · C++  
 **Backend:** Node.js · Express.js  
@@ -62,7 +62,7 @@ Node.js · React · MongoDB
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=vivek0101012&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
