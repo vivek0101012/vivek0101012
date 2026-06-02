@@ -45,7 +45,7 @@ Node.js · React · MongoDB
 ---
 
 ###  Currently Learning
-
+-Java & SpringBoot (Backend)
 - Node.js & Express.js (Backend)
 - DBMS & System Design basics
 - Data Structures & Algorithms
