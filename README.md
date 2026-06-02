@@ -54,10 +54,10 @@ Node.js · React · MongoDB
 
 ###  Tech Stack
 
-**Languages:** JavaScript · TypeScript · C++  
-**Backend:** Node.js · Express.js  
+**Languages:** Java · JavaScript · TypeScript · C++  
+**Backend:** SpringBoot · Node.js · Express.js  
 **Frontend:** React · Tailwind CSS  
-**Databases:** PostgreSQL · MySQL · MongoDB · Redis  
+**Databases:** PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ
 **Tools:** Git · GitHub · REST APIs  
 
 ---
